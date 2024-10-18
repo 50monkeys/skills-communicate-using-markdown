@@ -6,3 +6,4 @@ Here is some text.
 
 And here is some more text.
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
